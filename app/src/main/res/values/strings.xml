@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents15701Ejemplo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bienvenido">Bienvenido</string>
+    <string name="Saludar">Saludar</string>
+    <string name="Boton2">No hago nada</string>
+    <string name="Hint1">Ingresa tu nombre</string>
+    <string name="ExtraValue">Bienvenido %1$s !!!</string>
+</resources>
